@@ -1,0 +1,31 @@
+🛒 1. index.html (Home Page)
+
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CreativeShop | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CreativeShop</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to CreativeShop</h2>
+    <p>Discover unique and creative electronics built to inspire your everyday life. Quality. Innovation. Style.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 CreativeShop</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,38 @@
+🧰 2. products.html
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CreativeShop | Products</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CreativeShop</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Our Products</h2>
+    <ul>
+      <li>Creative Bluetooth Speaker - KES 2,999</li>
+      <li>Wireless Headphones - KES 4,500</li>
+      <li>Smart Home Light Kit - KES 3,200</li>
+    </ul>
+    <p>To pay via M-PESA: Send to 0757170288</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 CreativeShop</p>
+  </footer>
+</body>
+</html>
+
+

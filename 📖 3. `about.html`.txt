@@ -1,0 +1,31 @@
+📖 3. `about.html`
+
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CreativeShop | About</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>CreativeShop</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Us</h2>
+    <p>CreativeShop is a tech-forward online store offering innovative electronics. We believe in creativity, simplicity, and functionality.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 CreativeShop</p>
+  </footer>
+</body>
+</html>
